@@ -1,0 +1,20 @@
+.App{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+.inputContainer{
+  display: flex;
+  margin-top: 10px;
+  gap:10px;
+  flex-direction: column;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
