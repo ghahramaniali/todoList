@@ -9,7 +9,7 @@
   display: flex;
   margin-top: 10px;
   gap:10px;
-  flex-direction: column;
+  flex-direction: row;
 }
 .header{
   display: flex;
